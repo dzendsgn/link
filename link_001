@@ -1,0 +1,40 @@
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Вставка на Behance</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 50px;
+      background-color: #F5F7FA;
+      color: #595A66;
+      font-family: 'Manrope', sans-serif;
+      font-weight: 600;
+      max-width: 1400px;
+      margin: auto;
+    }
+    p {
+      margin: 0 0 20px;
+      font-size: 40px;
+    }
+    a {
+      color: #595A66;
+      text-decoration: none;
+    }
+    @media (max-width: 768px) {
+      body {
+        padding: 20px;
+      }
+      p {
+        font-size: 24px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <p>Над проектом работали:</p>
+  <p>графический дизайнер – <a href="mailto:example@domain.com">Елена Чейпеш – связаться</a></p>
+  <p>предметный фотограф – <a href="mailto:example@domain.com">Виктория Милантьева – связаться</a></p>
+</body>
+</html>
